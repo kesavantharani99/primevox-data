@@ -1,11 +1,23 @@
 [
     {
+        "id": "7",
+        "title": "Hshb",
+        "description": "Hdhd",
+        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
+        "release_date": "2025-09-25",
+        "languages": "Telugu",
+        "categories": "Family",
+        "industries": "Tollywood",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
+        "created_at": "2025-09-04 02:57:40"
+    },
+    {
         "id": "6",
         "title": "Unnai kodu ennai tharuven",
         "description": "Unnai Kodu Ennai Tharuven",
         "movie_url": "https:\/\/ia601003.us.archive.org\/13\/items\/unnai-kodu-ennai-tharuven-hd\/Unnai%20Kodu%20Ennai%20Tharuven%20HD.mp4",
         "release_date": "2000-05-19",
-        "languages": "Tamil",
+        "languages": "Telugu",
         "categories": "Romance",
         "industries": "Kollywood",
         "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/images.jpeg?updatedAt=1756876912670",
