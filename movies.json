@@ -1,78 +1,6 @@
 [
     {
-        "id": "12",
-        "title": "Next",
-        "description": "Hshs",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-09-02",
-        "languages": "Telugu",
-        "categories": "Romance",
-        "industries": "Hollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 03:24:56"
-    },
-    {
-        "id": "11",
-        "title": "No mama",
-        "description": "Hshs",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-09-01",
-        "languages": "English",
-        "categories": "Comedy",
-        "industries": "Bollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 03:16:03"
-    },
-    {
-        "id": "10",
-        "title": "Open ",
-        "description": "Hshsb",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-09-25",
-        "languages": "Malayalam",
-        "categories": "Family",
-        "industries": "Tollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 03:13:14"
-    },
-    {
-        "id": "9",
-        "title": "Oprn",
-        "description": "Hahba",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-09-07",
-        "languages": "Malayalam",
-        "categories": "Horror",
-        "industries": "Tollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 03:12:32"
-    },
-    {
-        "id": "8",
-        "title": "Mama hhhhh",
-        "description": "Gm",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-09-01",
-        "languages": "Tamil",
-        "categories": "Comedy",
-        "industries": "Kollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 03:06:29"
-    },
-    {
-        "id": "7",
-        "title": "Macha",
-        "description": "Hdhd",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-09-25",
-        "languages": "Telugu",
-        "categories": "Family",
-        "industries": "Tollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 02:57:40"
-    },
-    {
-        "id": "6",
+        "id": "1",
         "title": "Unnai kodu ennai tharuven",
         "description": "Unnai Kodu Ennai Tharuven",
         "movie_url": "https:\/\/ia601003.us.archive.org\/13\/items\/unnai-kodu-ennai-tharuven-hd\/Unnai%20Kodu%20Ennai%20Tharuven%20HD.mp4",
@@ -82,41 +10,5 @@
         "industries": "Kollywood",
         "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/images.jpeg?updatedAt=1756876912670",
         "created_at": "2025-09-02 22:42:31"
-    },
-    {
-        "id": "5",
-        "title": "Gbhvhh",
-        "description": "Hvg",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-09-03",
-        "languages": "Hindi, Tamil",
-        "categories": "Romance",
-        "industries": "Tollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-02 12:26:36"
-    },
-    {
-        "id": "4",
-        "title": "Sara prakash ",
-        "description": "Family movie ",
-        "movie_url": "https:\/\/ik.imagekit.io\/oci4nmbwv\/sample-video.mp4?updatedAt=1756445111914",
-        "release_date": "2025-11-07",
-        "languages": "Hindi",
-        "categories": "Family",
-        "industries": "Hollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/sample-video.mp4?updatedAt=1756445111914",
-        "created_at": "2025-08-30 20:58:52"
-    },
-    {
-        "id": "3",
-        "title": "Tharani kesavan",
-        "description": "Love movie, and romantic movie",
-        "movie_url": "https:\/\/ik.imagekit.io\/oci4nmbwv\/sample-video.mp4?updatedAt=1756445111914",
-        "release_date": "2025-04-09",
-        "languages": "Tamil",
-        "categories": "Romance",
-        "industries": "Hollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-08-30 20:30:57"
     }
 ]
