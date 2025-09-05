@@ -1,53 +1,5 @@
 [
     {
-        "id": "16",
-        "title": "Srpk",
-        "description": "Nee ",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-08-01",
-        "languages": "English, Hindi, Tamil, Telugu, Malayalam",
-        "categories": "Action, Comedy, Romance, Family, Horror",
-        "industries": "Bollywood, Hollywood, Kollywood, Tollywood, Mollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 09:55:23"
-    },
-    {
-        "id": "15",
-        "title": "Srpk",
-        "description": "Nee ",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-08-01",
-        "languages": "English, Hindi, Tamil, Telugu, Malayalam",
-        "categories": "Action, Comedy, Romance, Family, Horror",
-        "industries": "Bollywood, Hollywood, Kollywood, Tollywood, Mollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 09:55:20"
-    },
-    {
-        "id": "14",
-        "title": "Ktsp",
-        "description": "Ther",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-09-01",
-        "languages": "Hindi",
-        "categories": "Action",
-        "industries": "Hollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 08:54:32"
-    },
-    {
-        "id": "13",
-        "title": "Macha",
-        "description": "New movie",
-        "movie_url": "https:\/\/dash.infinityfree.com\/accounts\/if0_39811272",
-        "release_date": "2025-09-03",
-        "languages": "Hindi",
-        "categories": "Action",
-        "industries": "Hollywood",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
-        "created_at": "2025-09-04 07:53:04"
-    },
-    {
         "id": "1",
         "title": "Unnai kodu ennai tharuven",
         "description": "Unnai Kodu Ennai Tharuven",
