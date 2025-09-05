@@ -1,5 +1,17 @@
 [
     {
+        "id": "17",
+        "title": "Mugavaree",
+        "description": "New movie",
+        "movie_url": "https:\/\/ia600508.us.archive.org\/4\/items\/mugavaree-hd\/Mugavaree%20HD.mp4",
+        "release_date": "2000-02-19",
+        "languages": "Tamil",
+        "categories": "Romance",
+        "industries": "Kollywood",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/default-image.jpg?updatedAt=1756445110572",
+        "created_at": "2025-09-04 23:25:44"
+    },
+    {
         "id": "1",
         "title": "Unnai kodu ennai tharuven",
         "description": "Unnai Kodu Ennai Tharuven",
