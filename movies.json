@@ -1,14 +1,26 @@
 [
     {
+        "id": "48",
+        "title": "Identity ( 2025)",
+        "description": "Identity ( 2025)",
+        "movie_url": "https:\/\/ia801004.us.archive.org\/35\/items\/identity-2025-proper-hdrip-single-part-640x-360\/Identity%20%282025%29%20Proper%20HDRip%20Single%20Part%20%28640x360%29.ia.mp4",
+        "release_date": "2025-01-02",
+        "languages": "Tamil",
+        "categories": "Action, Horror",
+        "industries": "Kollywood",
+        "poster": "",
+        "created_at": "2025-10-06 06:44:19"
+    },
+    {
         "id": "47",
         "title": "DD Next Level ( 2025)",
         "description": "DD Next Level ( 2025)",
         "movie_url": "https:\/\/ia801602.us.archive.org\/33\/items\/dd-next-level-2025-hq-dvdscr-single-part-640x-360\/DD%20Next%20Level%20%282025%29%20HQ%20DVDScr%20Single%20Part%20%28640x360%29.ia.mp4",
         "release_date": "2025-05-16",
         "languages": "Tamil",
-        "categories": "Action, Horror",
+        "categories": "Horror",
         "industries": "Kollywood",
-        "poster": "",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/2025\/MV5BMmE5MDAwNjMtZTcyOC00NzE2LWE2YTEtODI4ZTdiYzNiN2RhXkEyXkFqcGc@._V1_.jpg?updatedAt=1759758275233",
         "created_at": "2025-10-06 05:37:20"
     },
     {
@@ -20,7 +32,7 @@
         "languages": "Tamil",
         "categories": "Action",
         "industries": "Kollywood",
-        "poster": "",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/2025\/229897-mad.jpeg?updatedAt=1759758182232",
         "created_at": "2025-10-06 05:09:55"
     },
     {
