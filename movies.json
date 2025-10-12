@@ -1,5 +1,31 @@
 [
     {
+        "id": "76",
+        "title": "Lovely 2001",
+        "description": "Lovely 2001",
+        "movie_url": "https:\/\/ia801005.us.archive.org\/31\/items\/lovely-single-part-hd\/Lovely%20Single%20Part%20HD.ia.mp4",
+        "release_date": "2001-06-06",
+        "languages": "Tamil",
+        "categories": "Romance",
+        "industries": "Kollywood",
+        "top10": "0",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/primevox\/posters\/1760287074_lovely-6371_zK-OD4Kzc.jpg",
+        "created_at": "2025-10-12 09:37:55"
+    },
+    {
+        "id": "75",
+        "title": "Minnale 2001",
+        "description": "Minnale 2001",
+        "movie_url": "https:\/\/ia601002.us.archive.org\/19\/items\/minnale-single-part-hd\/Minnale%20%20Single%20Part%20HD.ia.mp4",
+        "release_date": "2001-02-02",
+        "languages": "Tamil",
+        "categories": "Romance",
+        "industries": "Kollywood",
+        "top10": "0",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/primevox\/posters\/1760286959_minnale-5406_3hJP_4ypp.jpg",
+        "created_at": "2025-10-12 09:36:00"
+    },
+    {
         "id": "74",
         "title": "Daaku Maharaaj ( 2025)",
         "description": "Daaku Maharaaj ( 2025)",
