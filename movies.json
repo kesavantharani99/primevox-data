@@ -1,5 +1,57 @@
 [
     {
+        "id": "84",
+        "title": "Manadhai Thirudivitaai 2001",
+        "description": "New movie",
+        "movie_url": "https:\/\/archive.org\/download\/pv-manadhai-thirudivitaai-2001-20251013131112\/Manadhai%20Thirudivitaai%20(2001)%20Single%20Part%20HD.mp4",
+        "release_date": "2025-10-14",
+        "languages": "Tamil",
+        "categories": "Action, Comedy, Romance, Family",
+        "industries": "Kollywood",
+        "top10": "0",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/1000016951_0ZBVeJy-r.jpg",
+        "created_at": "2025-10-13 22:31:18"
+    },
+    {
+        "id": "83",
+        "title": "Azhagana Naatkal 2001",
+        "description": "New movie",
+        "movie_url": "https:\/\/ia801000.us.archive.org\/10\/items\/azhagana-naatkal-single-part-hd\/Azhagana%20Naatkal%20%20Single%20Part%20HD.ia.mp4",
+        "release_date": "2025-10-14",
+        "languages": "Tamil",
+        "categories": "Comedy, Romance, Family",
+        "industries": "Kollywood",
+        "top10": "0",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/1000016947_9Hi0kQj2n.jpg",
+        "created_at": "2025-10-13 22:28:47"
+    },
+    {
+        "id": "82",
+        "title": "Dum Dum Dum 2001",
+        "description": "New movie",
+        "movie_url": "https:\/\/archive.org\/download\/pv-dum-dum-dum-2001-20251013120412\/Dum%20Dum%20Dum%20%20Single%20Part%20HD.mp4",
+        "release_date": "2025-10-14",
+        "languages": "Tamil",
+        "categories": "Romance, Family",
+        "industries": "Kollywood",
+        "top10": "0",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/1000016948_7GfkJJ2A2.jpg",
+        "created_at": "2025-10-13 22:27:47"
+    },
+    {
+        "id": "81",
+        "title": "Shajahan 2001",
+        "description": "New movie",
+        "movie_url": "https:\/\/archive.org\/download\/pv-shajahan-2001-20251013133447\/Shajahan%20HD.mp4",
+        "release_date": "2025-10-14",
+        "languages": "Tamil",
+        "categories": "Romance",
+        "industries": "Kollywood",
+        "top10": "0",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/1000016950_K61XkY5R9.jpg",
+        "created_at": "2025-10-13 22:06:05"
+    },
+    {
         "id": "80",
         "title": "Poovellam Un Vasam 2001",
         "description": "Gg",
