@@ -40,12 +40,12 @@
     },
     {
         "id": "116",
-        "title": "Five star",
+        "title": "Five star 2002",
         "description": "New movie",
         "movie_url": "https:\/\/archive.org\/download\/pv-five-star-20251101120043\/Five%20Star%20.mp4",
         "release_date": "2025-11-01",
         "languages": "Tamil",
-        "categories": "Comedy, Romance, Family",
+        "categories": "Comedy",
         "industries": "Kollywood",
         "top10": "0",
         "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/primevox\/posters\/1_-ermGrZlz.jpg",
@@ -162,10 +162,10 @@
         "movie_url": "https:\/\/archive.org\/download\/pv-vanangaan-2025-20251016020928\/Vanangaan%202025.mp4",
         "release_date": "2025-11-01",
         "languages": "Tamil",
-        "categories": "Action, Romance, Family",
+        "categories": "Comedy",
         "industries": "Kollywood",
         "top10": "0",
-        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/1000017351_8r6QpvQ31.jpg",
+        "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/vanangaan_YPZhiNjMj.jpg",
         "created_at": "2025-11-01 05:40:03"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
         "id": "93",
-        "title": "Vinnukkum Mannukku 2001 tamil",
+        "title": "Vinnukkum Mannukku 2001",
         "description": "New movie",
         "movie_url": "https:\/\/archive.org\/download\/pv-vinnukkum-mannukku-2001-tamil-20251015132513\/Vinnukkum%20Mannukku%202001.mp4",
         "release_date": "2025-10-16",
