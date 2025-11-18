@@ -1,6 +1,18 @@
 {
     "episodes": [
         {
+            "id": "ep_1a9e4d349095",
+            "filename": "1000025649.mp4",
+            "ep_no": "02",
+            "release_date": "2025-10-06",
+            "size": 209009697,
+            "uploaded_at": "2025-11-18T01:42:35-05:00",
+            "direct": "https:\/\/archive.org\/download\/pv-biggboss-09-20251118013619\/1000025649.mp4",
+            "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/poster_1lA6LrfTB.jpg",
+            "title_id": "t_27f539c2414d",
+            "title": "biggboss 09"
+        },
+        {
             "id": "ep_1d5cfa4afacd",
             "filename": "1000025637.mp4",
             "ep_no": "726",
