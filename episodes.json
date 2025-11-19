@@ -47,6 +47,42 @@
             "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/poster_cBUrUt7si.jpg",
             "title_id": "t_65bdcc62328e",
             "title": "Magale En Marumagale"
+        },
+        {
+            "id": "ep_bc2b70cafca1",
+            "filename": "1000025775.mp4",
+            "ep_no": "82",
+            "release_date": "2025-11-19",
+            "size": 69760061,
+            "uploaded_at": "2025-11-18T23:26:13-05:00",
+            "direct": "https:\/\/archive.org\/download\/pv-magale-en-marumagale-20251118232522\/1000025775.mp4",
+            "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/poster_cBUrUt7si.jpg",
+            "title_id": "t_65bdcc62328e",
+            "title": "Magale En Marumagale"
+        },
+        {
+            "id": "ep_d1278b6ae10b",
+            "filename": "1000025639.mp4",
+            "ep_no": "135",
+            "release_date": "2025-11-18",
+            "size": 51811202,
+            "uploaded_at": "2025-11-18T23:34:01-05:00",
+            "direct": "https:\/\/archive.org\/download\/pv-thendrale-mella-pesu-20251118233311\/1000025639.mp4",
+            "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/poster_fwSCVcAse.webp",
+            "title_id": "t_ca408cde7e78",
+            "title": "Thendrale Mella Pesu"
+        },
+        {
+            "id": "ep_e3f3fa324aee",
+            "filename": "1000025781.mp4",
+            "ep_no": "136",
+            "release_date": "2025-11-19",
+            "size": 59822821,
+            "uploaded_at": "2025-11-18T23:36:32-05:00",
+            "direct": "https:\/\/archive.org\/download\/pv-thendrale-mella-pesu-20251118233530\/1000025781.mp4",
+            "poster": "https:\/\/ik.imagekit.io\/oci4nmbwv\/posters\/poster_fwSCVcAse.webp",
+            "title_id": "t_ca408cde7e78",
+            "title": "Thendrale Mella Pesu"
         }
     ]
 }
